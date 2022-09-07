@@ -1,5 +1,5 @@
 <!--
-**Naruki-Ichihara/Naruki-Ichihara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**iitrshubham/iitrshubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naruki-Ichihara&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iitrshubham&theme=vue)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naruki-Ichihara&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naruki-Ichihara&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iitrshubham&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iitrshubham&theme=vue)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naruki-Ichihara&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naruki-Ichihara&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iitrshubham&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iitrshubham&theme=vue)
